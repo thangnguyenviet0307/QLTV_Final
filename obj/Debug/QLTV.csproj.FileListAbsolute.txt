@@ -1,0 +1,44 @@
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\bin\Debug\QLTV.exe.config
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\bin\Debug\QLTV.exe
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\bin\Debug\QLTV.pdb
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\obj\Debug\QLTV.csproj.AssemblyReference.cache
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\obj\Debug\QLTV.fAdmin.resources
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\obj\Debug\QLTV.fChangePass.resources
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\obj\Debug\QLTV.fInterface.resources
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\obj\Debug\QLTV.fInformation.resources
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\obj\Debug\QLTV.fLogin.resources
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\obj\Debug\QLTV.fLibrary.resources
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\obj\Debug\QLTV.fUpdateInfo.resources
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\obj\Debug\QLTV.Properties.Resources.resources
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\obj\Debug\QLTV.csproj.GenerateResource.cache
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\obj\Debug\QLTV.exe
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\obj\Debug\QLTV.pdb
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\bin\Debug\Aspose.Words.dll
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\bin\Debug\Aspose.Words.Pdf2Word.dll
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\bin\Debug\Aspose.Words.xml
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\obj\Debug\QLTV.csproj.Up2Date
+D:\WorkSpace\Monhoc\Ki_1_Nam_5\CNPM\QLTV2\obj\Debug\QLTV.g.resources
+D:\Downloads\QLTV2 (1)\bin\Debug\QLTV.exe.config
+D:\Downloads\QLTV2 (1)\bin\Debug\QLTV.exe
+D:\Downloads\QLTV2 (1)\bin\Debug\QLTV.pdb
+D:\Downloads\QLTV2 (1)\bin\Debug\Aspose.Words.dll
+D:\Downloads\QLTV2 (1)\bin\Debug\Aspose.Words.Pdf2Word.dll
+D:\Downloads\QLTV2 (1)\bin\Debug\BCrypt.Net.dll
+D:\Downloads\QLTV2 (1)\bin\Debug\Aspose.Words.xml
+D:\Downloads\QLTV2 (1)\bin\Debug\BCrypt.Net.xml
+D:\Downloads\QLTV2 (1)\obj\Debug\QLTV.csproj.AssemblyReference.cache
+D:\Downloads\QLTV2 (1)\obj\Debug\QLTV.g.resources
+D:\Downloads\QLTV2 (1)\obj\Debug\QLTV.fAdmin.resources
+D:\Downloads\QLTV2 (1)\obj\Debug\QLTV.fChangePass.resources
+D:\Downloads\QLTV2 (1)\obj\Debug\QLTV.fInterface.resources
+D:\Downloads\QLTV2 (1)\obj\Debug\QLTV.fInformation.resources
+D:\Downloads\QLTV2 (1)\obj\Debug\QLTV.fLogin.resources
+D:\Downloads\QLTV2 (1)\obj\Debug\QLTV.fLibrary.resources
+D:\Downloads\QLTV2 (1)\obj\Debug\QLTV.fUpdateInfo.resources
+D:\Downloads\QLTV2 (1)\obj\Debug\QLTV.Properties.Resources.resources
+D:\Downloads\QLTV2 (1)\obj\Debug\QLTV.csproj.GenerateResource.cache
+D:\Downloads\QLTV2 (1)\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+D:\Downloads\QLTV2 (1)\obj\Debug\QLTV.csproj.Up2Date
+D:\Downloads\QLTV2 (1)\obj\Debug\QLTV.exe
+D:\Downloads\QLTV2 (1)\obj\Debug\QLTV.pdb
